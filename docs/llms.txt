@@ -1,0 +1,20 @@
+# Obhod-Youtube
+
+> Новая версия с поддержкой обхода YouTube в текущих условиях. Быстрее, надежнее, стабильнее
+
+Сборка Obhod-Youtube для тех, у кого YouTube ползёт на 144p. Без VPN и без смены DNS-провайдера.
+
+## Страницы
+- Сайт: https://restraintvoiceboost.github.io/Obhod-Youtube/
+- Релиз: https://github.com/RestraintVoiceBoost/Obhod-Youtube/releases/latest
+- Исходный код: https://github.com/RestraintVoiceBoost/Obhod-Youtube
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход замедления YouTube
+- YouTube тормозит что делать
+- YouTube не грузит видео
+- ускорить YouTube без VPN
+- zapret YouTube
+
+Windows 10/11, без VPN, бесплатно.
